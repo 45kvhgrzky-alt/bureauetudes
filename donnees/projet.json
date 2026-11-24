@@ -1,0 +1,21 @@
+{
+  "nom": "Immeuble R+3 - Projet 1 (Bureau d'etudes IIT)",
+  "niveaux": 4,
+  "hauteur_etage_m": 3.0,
+  "charge_permanente_kn_m2": 5.25,
+  "charge_exploitation_kn_m2": 1.5,
+  "poids_propre_forfait_kn": 14.1,
+  "contrainte_sol_kpa": 200,
+  "profondeur_fondation_m": 1.5,
+  "poteaux": [
+    {"id": "P1", "type": "angle",   "surface_influence_m2": 4.0},
+    {"id": "P2", "type": "rive",    "surface_influence_m2": 8.0},
+    {"id": "P3", "type": "angle",   "surface_influence_m2": 4.0},
+    {"id": "P4", "type": "rive",    "surface_influence_m2": 8.0},
+    {"id": "P5", "type": "central", "surface_influence_m2": 16.0},
+    {"id": "P6", "type": "rive",    "surface_influence_m2": 8.0},
+    {"id": "P7", "type": "angle",   "surface_influence_m2": 4.0},
+    {"id": "P8", "type": "rive",    "surface_influence_m2": 8.0},
+    {"id": "P9", "type": "angle",   "surface_influence_m2": 4.0}
+  ]
+}

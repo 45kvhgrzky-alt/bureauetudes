@@ -1,0 +1,5 @@
+code,designation,unite,prix_unitaire
+TER01,Fouilles en puits,m3,4000
+BET01,Beton arme dose a 350 kg/m3 (poteaux et semelles),m3,95000
+ACI01,Acier haute adherence HA (fourni et pose),kg,1100
+COF01,Coffrage bois (poteaux et semelles),m2,9000

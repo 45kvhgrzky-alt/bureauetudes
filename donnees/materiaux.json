@@ -1,0 +1,25 @@
+{
+  "beton": {
+    "densite_kn_m3": 25,
+    "contrainte_calcul_mpa": 10,
+    "epaisseur_semelle_m": 0.5
+  },
+  "poteau": {
+    "cote_minimal_cm": 20
+  },
+  "semelle": {
+    "pas_arrondi_m": 0.05
+  },
+  "acier": {
+    "ratio_poteau_kg_m3": 150,
+    "ratio_semelle_kg_m3": 80
+  },
+  "fouille": {
+    "surlargeur_m": 0.4
+  },
+  "coefficients": {
+    "gamma_g": 1.35,
+    "gamma_q": 1.5
+  },
+  "tva": 0.18
+}

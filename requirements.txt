@@ -1,0 +1,3 @@
+# Le programme n'utilise que la bibliothèque standard de Python (3.9+).
+# pytest n'est nécessaire que pour lancer les tests.
+pytest>=7.0
